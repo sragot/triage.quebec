@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Triage.Québec</title>
+	<atom:link href="/en/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A propos du protocole de triage au Québec</description>
+	<lastBuildDate>Wed, 07 Oct 2020 16:04:50 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Fall update on the protocol</title>
+		<link>/en/fall-update-on-the-protocol/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2020 15:05:27 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">/?p=1484</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-image uagb-block-6692f044"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-advanced-heading uagb-block-8be14bc9"><h2 class="uagb-heading-text">Fall update on the protocol</h2><p class="uagb-desc-text"></p></div>
+</div></section>
+
+
+
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f98bc7e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-72f3a8af"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">We made it !</h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Published on October 7, 2020</p></div></div></div></div></div>
+
+
+
+<p>The protocol has been updated during the summer. Most of the recommendations we gave to the government have been included in the new version of the protocol !</p>
+
+
+
+<p>This changes have been made thanks to your support and commitment. You have been almost 5000 to sign the petition and ask for an updated protocol. Without your support, this wouldn&#8217;t have happened. </p>
+
+
+
+<p>We would also would like to thank the different organizations and elected members of the National Assembly of Quebec that have contributed to this success.</p>
+
+
+
+<p>While the pandemic is still raging in Quebec, the new version of the protocol should protect more adequately the lives of people with disabilities if they unfortunately have to have access to intensive care units in the context of the pandemic. </p>
+
+
+
+<p>The new protocol is set to be widely made available to physicians around the third week of October, 2020. </p>
+
+
+
+<p>Since the changes made are satisfactory to the Quebec Intellectual Disability Society and other disability groups, we have decided to archive most of the contents on this website. The contents will still be available for researchers and other people interested in triage protocol issues for the foreseeable future.</p>
+
+
+
+<p>Again, many thank you to everyone who helped make this happen !</p>
+</div></section>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
